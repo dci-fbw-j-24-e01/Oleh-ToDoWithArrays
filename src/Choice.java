@@ -10,7 +10,7 @@ public class Choice extends ArraysAdd {
             int middle = numbers.length / 2;
             System.out.println(numbers[middle]);
         }
-
+        System.out.println("");
         if (numbers2.length % 2 == 0) {
             int left = numbers2[numbers2.length / 2 - 1];
             int right = numbers2[numbers2.length / 2 ];
