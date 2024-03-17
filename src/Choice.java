@@ -11,8 +11,6 @@ public class Choice extends ArraysAdd {
             System.out.println(numbers[middle]);
         }
 
-
-
         if (numbers2.length % 2 == 0) {
             int left = numbers2[numbers2.length / 2 - 1];
             int right = numbers2[numbers2.length / 2 ];
