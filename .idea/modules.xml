@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ToDoWithArrays2.iml" filepath="$PROJECT_DIR$/ToDoWithArrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToDoWithArrays.iml" filepath="$PROJECT_DIR$/ToDoWithArrays.iml" />
     </modules>
   </component>
 </project>
