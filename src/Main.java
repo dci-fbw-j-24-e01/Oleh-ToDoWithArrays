@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Sum the first and the last number");
+        System.out.println("Sum the first and the last numbers");
         new SummarizeInAnArray();
         System.out.println("-------");
-        System.out.println("Program that prints the value in the middle of the array and print the sum of both numbers in middle");
+        System.out.println("Program that prints the value in the middle of the array and print the sum of both numbers in middle of array\n(From the second, not the first. Yeah, there's two of them)");
         new Choice();
         System.out.println("-------");
-        System.out.println("Prints all the elements of an array in reverse.");
+        System.out.println("Prints all the elements of arrays in reverse.");
         new Revers();
         System.out.println("-------");
         System.out.println("Let's Fibonacci something");
