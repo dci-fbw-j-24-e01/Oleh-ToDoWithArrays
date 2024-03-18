@@ -2,8 +2,8 @@ public class Choice extends ArraysAdd {
     public Choice()    {
 
         if (numbers.length % 2 == 0) {
-            int left = numbers2[numbers2.length / 2 - 1];
-            int right = numbers2[numbers2.length / 2 ];
+            int left = numbers[numbers.length / 2 - 1];
+            int right = numbers[numbers.length / 2 ];
             int sum = left + right;
             System.out.println(sum);
         } else {
