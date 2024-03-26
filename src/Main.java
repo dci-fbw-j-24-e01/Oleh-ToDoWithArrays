@@ -13,6 +13,7 @@ public class Main {
         new Fibonacci();
         System.out.println("-------");
         System.out.println("We're searching for something");
+        System.out.println("Right now it's number 5.");
         new CheckingNumbers();
         System.out.println("-------");
         System.out.println("Let's get the names. Not all of them. I'm lazy");
